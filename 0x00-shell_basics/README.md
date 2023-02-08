@@ -9,3 +9,6 @@
 4. *./3-listfiles* - Displays current directory contents in a long format.
 
 5. *./4-listmorefiles* - Displays current directory contents, including hidden files.
+
+6. *./5-listfilesdigitonly* - Displays current directory contents with user IDs
+
