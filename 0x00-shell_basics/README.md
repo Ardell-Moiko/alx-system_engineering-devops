@@ -12,3 +12,4 @@
 
 6. *./5-listfilesdigitonly* - Displays current directory contents with user IDs
 
+7. *./6-firstdirectory* - Creates a directory named my_first_directory in the /tmp/ directory.
