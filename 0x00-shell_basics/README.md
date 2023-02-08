@@ -21,3 +21,5 @@
 9. *./9-firstdirdeletion* - Deletes the directory my_first_directory that is in the /tmp directory.
 
 10. *./10-back* - Changes the working directory to the previous one.
+
+12. *./12-file_type* - Prints the type of the file named iamafile.
