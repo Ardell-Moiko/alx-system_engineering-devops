@@ -22,4 +22,7 @@
 
 10. *./10-back* - Changes the working directory to the previous one.
 
+11. *./11-lists* - lists all files in the current directory and the parent of the working directory and the /boot directory in long format.
+
 12. *./12-file_type* - Prints the type of the file named iamafile.
+
