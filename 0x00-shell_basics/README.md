@@ -35,3 +35,5 @@
 16. *./101-clean_emacs* - Deletes all files in the current working directory that end with the character ~.
 
 17. *./102-tree* - creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+
+18. *./103-commas* - Lists all the files and directories of the current directory, separated by commas.
